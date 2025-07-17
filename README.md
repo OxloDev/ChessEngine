@@ -1,4 +1,4 @@
-Chess Engine I made while flying across the world.
+Simple Chess Engine I made while flying across the world.
 
 Enjoy!
 
